@@ -1,0 +1,3 @@
+User-agent: *
+#Disallow: 
+Sitemap: https://www.clinicaatenas.com.br/sitemap.xml
